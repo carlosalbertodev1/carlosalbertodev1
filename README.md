@@ -12,7 +12,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,js" />
-  <img src="https://skillicons.dev/icons?i=html,js" />
+  <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
