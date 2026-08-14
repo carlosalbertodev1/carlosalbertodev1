@@ -10,33 +10,12 @@
 
 ## 💻 Tech Stack
 
-### 🐍 Back-end
-
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,js" />
-</p>
-
-### 🎨 Front-end
-
-<p>
   <img src="https://skillicons.dev/icons?i=html,js" />
-</p>
-
-### 🗄️ Banco de Dados
-
-<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-</p>
-
-**SQL**
-
-### 📊 Dados
-
-<p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
-
-**Pandas**
 
 ### 🧪 Testes e Automação
 
